@@ -3,7 +3,7 @@ Solving Task Assignment and Scheduling problem (TAS) with Approximate Message Pa
 
 Code for TAS-AMP
 
-Preparataion
+* Preparataion
 
 1) Gurobi 
    - gurobi license is necessary
