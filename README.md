@@ -43,4 +43,5 @@ Code for TAS-AMP
 
 
 * Example result
+  The following is a graph illustrating the task assignment results
   <img src="./Example_result.png">
