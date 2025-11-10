@@ -18,8 +18,7 @@ import matplotlib.pyplot as plt
 prob = Prob(5, 100, 0, 2, var=0.1, discount=0.0)  
 
 tic = time.time()
-amp_cr = AMP_CR(prob, build_type=0, conf_res_type=0, refine_type=0, buff_size=2, discount=0.0, N_iter=30,
-                return_type=False)
+amp_cr = AMP_CR(prob, build_type=0, conf_res_type=0, refine_type=0, buff_size=2, discount=0.0, N_iter=30)
 
 result = amp_cr.solve()
 toc = time.time()
