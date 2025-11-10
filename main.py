@@ -1,6 +1,4 @@
-# from function_ampcr.function_ampcr import *
-
-from function_ampcr.ampcr_new_fimod import *
+from function_ampcr.ampcr_new import *
 from function_cbba.cbba import *
 from function_cbba.bwcbba import *
 from function_gurobi import Gurobi_solve
