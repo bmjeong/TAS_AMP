@@ -4,6 +4,10 @@ Solving Task Assignment and Scheduling problem (TAS) with Approximate Message Pa
 Code for TAS-AMP
 
 * Preparataion
+   Simply execute the command below in your terminal to finish setting up the imports.
+   ```
+   pip install gurobipy lkh numpy matplotlib
+   ```
 
    1) Gurobi 
       - gurobi license is necessary
