@@ -39,4 +39,4 @@ solver_path = '../LKH-3.0.6/LKH'
 lkh.solve(solver_path, problem=problem, max_trials=10000, runs=10)
 ```
 
-- You can change the solver path 너의 컴퓨터에 맞춰서
+- You can modify the solver path to match your computer settings.
